@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 675" role="img" aria-labelledby="title desc">
+  <title id="title">Gear-driven parallel gripper assembly preview</title>
+  <desc id="desc">Technical line illustration of a parallel robotic gripper with two jaws, a central pinion and synchronised spur gears.</desc>
+  <rect width="900" height="675" fill="#0d1117"/>
+  <g fill="none" stroke="#53606c" stroke-width="2" opacity=".65"><path d="M70 130H830M70 337H830M70 545H830"/><path d="M170 70V605M450 70V605M730 70V605"/></g>
+  <g fill="#151a21" stroke="#a8b2be" stroke-width="8" stroke-linejoin="round"><path d="M180 250h124l40 64-40 64H180l-48-34v-60z"/><path d="M720 250H596l-40 64 40 64h124l48-34v-60z"/><path d="M250 378h92v128h-92zM558 378h92v128h-92z"/><path d="M306 278l96-64 27 42-86 86zM594 278l-96-64-27 42 86 86z"/></g>
+  <g fill="#0d1117" stroke="#ff7a30" stroke-width="10"><circle cx="370" cy="337" r="76"/><circle cx="530" cy="337" r="76"/><circle cx="450" cy="337" r="43"/></g>
+  <g stroke="#ff7a30" stroke-width="8"><path d="M370 261v152M294 337h152M316 283l108 108M424 283L316 391"/><path d="M530 261v152M454 337h152M476 283l108 108M584 283L476 391"/><path d="M450 294v86M407 337h86M420 307l60 60M480 307l-60 60"/></g>
+  <g fill="#a8b2be"><path d="M145 277h58v14h-58zm0 32h58v14h-58zm0 32h58v14h-58zM755 277h-58v14h58zm0 32h-58v14h58zm0 32h-58v14h58z"/></g>
+  <g fill="#ff7a30" font-family="monospace" font-size="20" letter-spacing="3"><text x="58" y="95">EOAT / PARALLEL GRIPPER</text><text x="58" y="635">STATIC TECHNICAL PREVIEW</text></g>
+  <g fill="#8b95a3" font-family="monospace" font-size="15"><text x="58" y="118">CENTRAL PINION · SYNCHRONISED SPUR GEARS · FOUR-BAR LINKAGE</text><text x="686" y="635">PROJECT 03</text></g>
+</svg>
